@@ -2,6 +2,8 @@
 **我想强调的是，同一个人有多个自画像。与其追求照相般的相似性，不如深入发掘相似处。<br> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ——Vincent  van gogh**
 ![vincent van gogh](https://github.com/MrCuri0sity/user_persona/blob/master/photos/vincent.png?raw=true)
+####0. 写在前面
+本文仅为本人学习使用，了解用户画像的读书笔记，文中大部分内容来自互联网，如有侵权，请联系我(792706244@qq.com)删除
 
 ####1. 什么是用户画像<br>
 persona(also user persona, customer per	sona, buyer persona)最初在腾讯被叫做用户画像，wiki上的解释是a fictional character created to represent a user type， 简单说就是给用户打标签，展示用户的全貌。譬如用户画像的标签可以是**姓名、年龄、家庭状况、收入、工作、用户场景、计算机技能等.**用户画像提出者Alan Cooper 将用户画像分为以下三个类别：<br>
