@@ -1,7 +1,8 @@
 ###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Big picture of user persona
 **我想强调的是，同一个人有多个自画像。与其追求照相般的相似性，不如深入发掘相似处。<br> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ——Vincent  van gogh**
-![vincent van gogh](https://github.com/MrCuri0sity/user_persona/blob/master/photos/vincent.png?raw=true)
+![vincent van gogh](https://github.com/MrCuri0sity/user_persona/blob/master/photos/vincent.png?raw=true)<br>
+
 ####0. 写在前面
 本文仅为本人学习使用，了解用户画像的读书笔记，文中大部分内容来自互联网，如有侵权，请联系我(792706244@qq.com)删除
 
